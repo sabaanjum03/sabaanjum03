@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabaanjum03&label=Profile%20views&color=0e75b6&style=flat" alt="sabaanjum03" /> </p>
 
-- 💬 Ask me about **Python , React , SQL and CSS**
+- 💬 Ask me about **Python , databases , and networking**
 
 - 📫 How to reach me **sabaanjum9880@gmail.com**
 
