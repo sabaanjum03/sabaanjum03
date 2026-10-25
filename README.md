@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **sabaanjum9880@gmail.com**
 
-- ⚡ Fun fact **I'm training an AI to predict the next plot twist in anime series. Who needs spoilers when you have machine learning? 🤖📚🔮**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
