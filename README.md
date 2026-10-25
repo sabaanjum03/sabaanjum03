@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Saba Anjum</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">👩‍💻 Data Scientist | Frontend Web Developer</h3>
 
 <img align ="right" alt ="coding" width ="400" src ="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
